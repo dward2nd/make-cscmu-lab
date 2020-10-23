@@ -14,7 +14,7 @@ SECTION = '00x'
 
 # ===== CODE PREFERENCES =====
 TAB_WIDTH = 4            # How many spaces per tab you want in your code.
-INCLUDE_MAIN = True      # If you don't need `main()` function, set to False.
+INCLUDE_MAIN = False     # If you don't need `main()` function, set to False.
 
 # Note: If you set `INCLUDE_MAIN` to False, setting `TAB_WIDTH` is unnecessary.
 
